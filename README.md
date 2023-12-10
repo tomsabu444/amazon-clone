@@ -1,6 +1,6 @@
-# React + Vite  Amazon App.
+#  Amazon App.
 
-# under progress
+#  React + Vite , tailwind CSS & Redux
 
 
 ## Getting Started
@@ -14,6 +14,8 @@ and after that start the dev server.
 ```shell
 npm run dev
 ```
+
+we are usiing 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
