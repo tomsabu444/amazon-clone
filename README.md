@@ -1,4 +1,4 @@
-#  Amazon App.
+#  Amazon Clone Frontend
 
 #  React + Vite , tailwind CSS & Redux
 
